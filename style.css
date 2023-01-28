@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine;
+  color: orangered;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  font-family: poppins;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+ul li {
+  font-size: 25px;
+  font-weight: 600;
+  color: purple;
+}
